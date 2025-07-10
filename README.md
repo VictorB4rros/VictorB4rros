@@ -11,13 +11,13 @@
 
 ## 🎓 Formação
 * Relações Internacionais - PUC-SP - (concluído);
-* Análise e Desenvolvimento de Sistemas - IFSP - (cursando - 2º semestre);
+* Análise e Desenvolvimento de Sistemas - IFSP - (cursando - 4º semestre);
 * Finanças Internacionais - Escola Superior de Relações Internacionais - (concluído);
 * Introdução à Gestão de Projetos - Fundação Bradesco - (concluído);
 
 ## 🎓 Idiomas
 * Inglês fluente - Cultura Inglesa 2005 a 2011
-* Espanhol básico
+* Espanhol intermediário
 
 ## 👩🏻‍💻 Tecnologias
 <img align="center" alt="Victor-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
