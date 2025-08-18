@@ -1,8 +1,8 @@
-## Olá, bem-vindo(a) ao meu Github! 😄
+## Victor Barros 😄
 
 **`Back-end Developer`**
 
-Meu nome é Victor Barros, tenho 30 anos e sou de São Paulo, Brasil. Sou formado em Relações Internacionais pela PUC-SP e atualmente estou cursando Análise e Desenvolvimento de Sistemas no IFSP. Após alguns anos atuando na área de RI, desenvolvi uma paixão por tecnologia e programação e decidi fazer uma transição de carreira. Estou me especializando em desenvolvimento Back-end e espero me estabelecer na carreira tech, trazendo meus conhecimentos prévios em RI para ter uma visão ampla de todo o ecossistema e agregar valor para o negócio.
+Bem vindo(a) ao meu Github! Meu nome é Victor Barros. Sou formado em Relações Internacionais pela PUC-SP e atualmente estou cursando Análise e Desenvolvimento de Sistemas no IFSP. Após alguns anos atuando na área de RI, desenvolvi uma paixão por tecnologia e programação e decidi fazer uma transição de carreira. Estou me especializando em desenvolvimento Back-end e espero me estabelecer na carreira tech, trazendo meus conhecimentos prévios em RI para ter uma visão ampla de todo o ecossistema e agregar valor para o negócio.
 
 <p align="left">
     <a href="linkedin.com/in/victor-rodrigues-de-barros-6583b712a">
