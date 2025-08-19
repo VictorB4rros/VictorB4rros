@@ -144,6 +144,7 @@ Bem vindo(a) ao meu Github! Meu nome é Victor Barros. Sou formado em Relações
 <br/>
 <br/>
 <br/>
+<br/>
 
 ## 🎓 Formação
 * Relações Internacionais - PUC-SP - (concluído);
