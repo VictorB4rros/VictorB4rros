@@ -23,7 +23,7 @@ Bem vindo(a) ao meu Github! Meu nome é Victor Barros. Sou formado em Relações
 
 ---
 
-### 👩🏻‍💻 Technologies
+### 👩🏻‍💻 Tecnologias
 <img 
     align="left" 
     alt="Java"
@@ -116,7 +116,7 @@ Bem vindo(a) ao meu Github! Meu nome é Victor Barros. Sou formado em Relações
 <br/>
 <br/>
 
-### 🐙 Statistics
+### 🐙 Estatísticas
 
 <p>
   <img 
